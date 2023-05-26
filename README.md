@@ -1,12 +1,14 @@
 # 0x1B. C - Sorting algorithms & Big O
 
 ## Description
-This project is a partner project part of the curriculum of Holberton School.
+
+This project is a partner project part of the curriculum of ALX Holberton School.
 Its aim is to explore, learn and implement most well-known sorting algorithms.
 It's also about understanding the Big O notation of time complexity.
 These algorithms are implemented in C.
 
 ## Table of contents
+
 Files | Description
 ----- | -----------
 [sort.h](./sort.h) | Header file containing all the function prototypes and data structures for this project
@@ -35,9 +37,3 @@ Files | Description
 [107-quick_sort_hoare.c](./107-quick_sort_hoare.c) | Implementation of the Quicksort algorithm with the Hoare partition scheme
 [1000-sort_deck.c](./1000-sort_deck.c) | Function that sorts a deck of cards
 [deck.h](./deck.h) | Header file for the card deck sorting function
-
-
-## Authors
-Laura Roudge
-Ethan Mayer
-Cohort 8 - Holberton School
